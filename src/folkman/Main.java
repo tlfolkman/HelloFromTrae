@@ -7,5 +7,6 @@ public class Main {
 
 	//this is my huuuuugeeeee change
 	Boolean i_Win = true;
+	    double j =1000000;
     }
 }
