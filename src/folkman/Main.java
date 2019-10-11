@@ -11,7 +11,5 @@ public class Main {
 	    double j =1000000;
 
 	    System.out.println("Hello Jacob, James, and Colin. My name is Trae.");
-
-	    System.out.println("going to delete this");
     }
 }
