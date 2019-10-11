@@ -9,5 +9,7 @@ public class Main {
 	//this is my huuuuugeeeee change
 	Boolean i_Win = true;
 	    double j =1000000;
+
+	    System.out.println("Hello Jacob, James, and Colin. My name is Trae.");
     }
 }
